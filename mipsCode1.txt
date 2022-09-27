@@ -1,0 +1,4 @@
+addi $t0, $0, 31
+srlv $t1, $a0, $t0
+addi $t0, $0, 31
+srlv $t1, $a0, $t0
